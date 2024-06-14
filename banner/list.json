@@ -2,7 +2,7 @@
     "name": "Artemis Banners",
     "list": [
       {
-        "chainId": [118220],
+        "chainId": [911822],
         "title": "Artela TESTNET CAMPAIGN IS LIVE",
         "href": "",
         "target": "_blank",
@@ -12,7 +12,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 0
+      "patch": 1
     }
   }
   
