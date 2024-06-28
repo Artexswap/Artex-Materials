@@ -4,7 +4,7 @@
     "epochEndTime": 1719712800,
     "AirdropTotal": 200000,
     "TradingRate": 10,
-    "LiquidityRate": 0.000011574074074074073,
+    "LiquidityRate": 0.000023148148148148147,
     "ReferralRate": 1,
     "ProfitRate": 0.1,
     "SwapRate": 5,
@@ -21,7 +21,7 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 2
+      "patch": 3
     }
   }
   
