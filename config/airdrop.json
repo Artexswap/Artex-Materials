@@ -1,7 +1,7 @@
 {
     "name": "Artela Airdrop Config",
     "epochStartTime": 1711929600,
-    "epochEndTime": 1719540000,
+    "epochEndTime": 1719712800,
     "AirdropTotal": 200000,
     "TradingRate": 10,
     "LiquidityRate": 0.000011574074074074073,
